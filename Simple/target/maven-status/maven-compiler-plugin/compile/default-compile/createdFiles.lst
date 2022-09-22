@@ -1,0 +1,5 @@
+com\quinnox\Simple\BikeRepository.class
+com\quinnox\Simple\Bike.class
+com\quinnox\Simple\MyResource.class
+com\quinnox\Simple\QuinnoxResource.class
+com\quinnox\Simple\ConnectionFactory.class
